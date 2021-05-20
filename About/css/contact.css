@@ -1,0 +1,42 @@
+
+.contact,h1,input[type='submit']
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 48px;
+}
+input,textarea{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 10px;
+    outline: none;
+    display: block;
+    font-size: 20px;
+    width: 100%;
+}
+textarea{
+    box-sizing: border-box;
+    resize: none;
+}
+.btn{
+    color: white;
+    background: black;
+    padding: 5px 10px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.bg{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 85vh;
+    
+    position: absolute;
+    z-index: -1;
+}
