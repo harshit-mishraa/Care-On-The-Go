@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+.booking{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 20vh;
+}
+thead{
+    font-size: 25px;
+}
+th{
+    padding: 10px;
+    background: lightblue;
+    border: 2px solid black;
+}
+td{
+    padding: 10px;
+    border: 2px solid black;
+    background: white;
+    text-align: center;
+} 
+.booking{
+    background-image: url(../img/backgroundimg.jpeg);
+    
+}
+.abc{
+    
+        padding: 20px;
+        margin-top: 10vh;
+        background-color: rgb(14, 216, 165);
+        border: 1px solid rgb(14, 216, 165);
+        border-radius: 10px;
+    
+}
+

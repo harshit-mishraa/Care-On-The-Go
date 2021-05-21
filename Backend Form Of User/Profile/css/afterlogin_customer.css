@@ -1,0 +1,32 @@
+.navcol
+{
+    width:12vw;
+    min-height: calc(100vh - 70px - 46px);
+}
+
+.navcol ul
+{
+    display:flex;
+    flex-direction: column;
+    background-color: black;
+    width:12vw;
+    min-height: calc(100vh - 70px - 46px);
+}
+
+.navcol ul li
+{
+    font-size:15px;
+    box-sizing: border-box;
+    margin: 1px 0px;
+    color:white;
+    padding:15px 10px;
+    width:12vw;
+    background-color: rgb(68, 68, 68);
+}
+
+
+.container{
+    display: flex;
+}
+
+
