@@ -3,8 +3,10 @@
 
 #PROJECT IDEA 
 
--In our Project, we have aimed to create a online platform during this tough time of COVID-19 which helps people to book ambulance with in seconds and providing communication interface between user drivers and hospital staff. 
+-In our Project, we have aimed to create a online platform during this tough time of COVID-19 which helps people to book ambulance with in seconds and providing communication interface between user drivers and hospital staff.
+
 -Our website not only helps patients but it also provide opportunities to people who 
 would like to volunteer themselves in ambulance services. 
+
 -Our website also helps in generating employment to middle class people in these time. 
 
