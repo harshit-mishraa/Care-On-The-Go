@@ -140,7 +140,7 @@
             </div>
             <div class="col-75">
             <input class="subbtn" type="file" name="fileToUpload" id="fileToUpload">
-            <input class="subbtnn" type="submit" value="Upload Image" name="submit">
+            
             </div>
         </div>
         <br>
@@ -150,7 +150,7 @@
             </div>
             <div class="col-75">
             <input class="subbtn" type="file" name="fileToUpload" id="fileToUpload">
-            <input class="subbtnn" type="submit" value="Upload Image" name="submit">
+            
             </div>
         </div>
         <br>
@@ -160,7 +160,7 @@
             </div>
             <div class="col-75">
             <input class="subbtn" type="file" name="fileToUpload" id="fileToUpload">
-            <input class="subbtnn" type="submit" value="Upload Image" name="submit">
+            
             </div>
         </div>
         <br>
