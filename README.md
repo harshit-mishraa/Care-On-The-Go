@@ -28,6 +28,11 @@ We believe it can be an excellent Entrepreneurial Opportunity.
 
 [PROJECT PPT](https://drive.google.com/file/d/1dJ1xI0JbQCj8AEfGQ9TLtQw1v2D95j2h/view?usp=sharing)
 
+# TEAM MEMBERS
+- ANALKAR BANSAL
+- DEEPAK YADAV
+- HARSHIT MISHRA
+
 
 
 
