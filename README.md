@@ -10,3 +10,15 @@ would like to volunteer themselves in ambulance services.
 
 - Our website also helps in generating employment to middle class people in these time. 
 
+# PROPOSED SOLUTON
+
+- We created “Care On The Go “,  It is a web application for booking an ambulance and would also acts as a communication between patients, ambulance , hospitals and users. 
+  
+- Features like 24x7 Online Booking Facility,  Chat and Call Facility with Ambulance Drivers as well as Hospital Administration Desk and preferred Destination Location would be implemented.
+ 
+- Feature like Real-Time GPS Tracking Ambulance and Multiple Payment Options are desired to be implemented in the future. 
+We believe it can be an excellent Entrepreneurial Opportunity.
+
+
+
+
