@@ -26,7 +26,7 @@ We believe it can be an excellent Entrepreneurial Opportunity.
 - Communication with Hospital Administration Desk.
 - Implementation of above project to a Mobile App.
 
-[PROJECT PPT](https://docs.google.com/presentation/d/1dJ1xI0JbQCj8AEfGQ9TLtQw1v2D95j2h/edit?usp=drive_web&ouid=112383944159230000300&rtpof=true)
+[PROJECT PPT](https://drive.google.com/file/d/1dJ1xI0JbQCj8AEfGQ9TLtQw1v2D95j2h/view?usp=sharing)
 
 
 
